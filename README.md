@@ -8,7 +8,7 @@ The scraped data is processed and saved into **Excel (.xlsx) files** for analysi
 
 ---
 
-## 📌 What This Project Does
+## What This Project Does
 
 - Uses **Selenium** to interact with the CBP Historical Border Wait Times website
 - Selects border **ports, lanes, sub-lanes, and holidays**
@@ -18,7 +18,7 @@ The scraped data is processed and saved into **Excel (.xlsx) files** for analysi
 
 ---
 
-## 📊 Output (Excel Files)
+## Output (Excel Files)
 
 Depending on the script used, the project can generate:
 
@@ -34,13 +34,6 @@ Example output files:
 
 ---
 
-## 🧰 Technologies Used
-
-- Python 3
-- Selenium WebDriver
-- Pandas
-- WebDriver Manager
-- Excel (openpyxl)
 
 ---
 
