@@ -28,9 +28,12 @@ Depending on the script used, the project can generate:
 - Sheets ordered by **day of week and time**
 
 Example output files:
-- `elpaso_holiday_wait_times.xlsx`
-- `elpaso_holiday_wait_times_by_holiday_clean.xlsx`
-- `elpaso_holiday_wait_times_by_holiday_clean_sorted.xlsx`
+- Every average wait time regular days
+  - `elpaso_holiday_wait_times.xlsx`
+- Original Hoiday
+  - `elpaso_holiday_wait_times.xlsx`
+- Original Holiday was too inorganized when web scraped so i reordered it each holiday is on its own sheet
+  - `elpaso_holiday_wait_times_by_holiday_clean_sorted.xlsx`
 
 ---
 
