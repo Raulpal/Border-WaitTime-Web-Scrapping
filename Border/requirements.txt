@@ -1,0 +1,7 @@
+lxml
+pandas
+selenium
+openpyxl
+webdriver-manager
+beautifulsoup4
+html5lib
